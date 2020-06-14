@@ -1,0 +1,73 @@
+{
+  "name": "react-crop-component",
+  "version": "0.1.0",
+  "public": true,
+  "dependencies": {
+    "html2canvas": "1.0.0-rc.5"
+  },
+  "keywords": [
+    "cleo.one",
+    "algorithmic-trading",
+    "react",
+    "html2canvas",
+    "crop-component",
+    "crop",
+    "component",
+    "canvas"
+  ],
+  "homepage": "http://cleo-one.github.io/react-crop-component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleo-one/react-crop-component.git"
+  },
+  "author": "CLEO.one",
+  "contributors": [
+    {
+      "name": "Yusuf Özlü",
+      "email": "ozluyusuf@gmail.com",
+      "url": "https://github.com/ozluy/"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleo-one/react-crop-component/issues"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "npmbuild": "./node_modules/.bin/babel src/CropComponent.js --out-file index.js",
+    "publish": "npm run npmbuild && npm publish"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.5",
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "babel-preset-minify": "^0.5.1",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "gh-pages": "^3.0.0"
+  }
+}

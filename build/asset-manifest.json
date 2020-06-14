@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-crop-component/static/css/main.d08edc0e.chunk.css",
+    "main.js": "/react-crop-component/static/js/main.1bd03e83.chunk.js",
+    "main.js.map": "/react-crop-component/static/js/main.1bd03e83.chunk.js.map",
+    "runtime-main.js": "/react-crop-component/static/js/runtime-main.869c789b.js",
+    "runtime-main.js.map": "/react-crop-component/static/js/runtime-main.869c789b.js.map",
+    "static/js/2.1f147010.chunk.js": "/react-crop-component/static/js/2.1f147010.chunk.js",
+    "static/js/2.1f147010.chunk.js.map": "/react-crop-component/static/js/2.1f147010.chunk.js.map",
+    "index.html": "/react-crop-component/index.html",
+    "precache-manifest.715aa77202c76761526e863780151319.js": "/react-crop-component/precache-manifest.715aa77202c76761526e863780151319.js",
+    "service-worker.js": "/react-crop-component/service-worker.js",
+    "static/css/main.d08edc0e.chunk.css.map": "/react-crop-component/static/css/main.d08edc0e.chunk.css.map",
+    "static/js/2.1f147010.chunk.js.LICENSE.txt": "/react-crop-component/static/js/2.1f147010.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.869c789b.js",
+    "static/js/2.1f147010.chunk.js",
+    "static/css/main.d08edc0e.chunk.css",
+    "static/js/main.1bd03e83.chunk.js"
+  ]
+}
