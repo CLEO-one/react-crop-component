@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-crop-component/static/css/main.d08edc0e.chunk.css",
-    "main.js": "/react-crop-component/static/js/main.349aa227.chunk.js",
-    "main.js.map": "/react-crop-component/static/js/main.349aa227.chunk.js.map",
+    "main.js": "/react-crop-component/static/js/main.acd0a7fa.chunk.js",
+    "main.js.map": "/react-crop-component/static/js/main.acd0a7fa.chunk.js.map",
     "runtime-main.js": "/react-crop-component/static/js/runtime-main.0f70c159.js",
     "runtime-main.js.map": "/react-crop-component/static/js/runtime-main.0f70c159.js.map",
     "static/js/2.414b1951.chunk.js": "/react-crop-component/static/js/2.414b1951.chunk.js",
     "static/js/2.414b1951.chunk.js.map": "/react-crop-component/static/js/2.414b1951.chunk.js.map",
     "index.html": "/react-crop-component/index.html",
-    "precache-manifest.f56c5a4b5d41bafedf8b013382601007.js": "/react-crop-component/precache-manifest.f56c5a4b5d41bafedf8b013382601007.js",
+    "precache-manifest.6417a92a3d09579cac653de260f0d2c9.js": "/react-crop-component/precache-manifest.6417a92a3d09579cac653de260f0d2c9.js",
     "service-worker.js": "/react-crop-component/service-worker.js",
     "static/css/main.d08edc0e.chunk.css.map": "/react-crop-component/static/css/main.d08edc0e.chunk.css.map",
     "static/js/2.414b1951.chunk.js.LICENSE.txt": "/react-crop-component/static/js/2.414b1951.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0f70c159.js",
     "static/js/2.414b1951.chunk.js",
     "static/css/main.d08edc0e.chunk.css",
-    "static/js/main.349aa227.chunk.js"
+    "static/js/main.acd0a7fa.chunk.js"
   ]
 }
