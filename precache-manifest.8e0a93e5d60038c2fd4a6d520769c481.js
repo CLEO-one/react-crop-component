@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e84730e84484d658df5e0134a50f27c",
+    "revision": "bef894a58c319eb39a5c2b705d7b1dde",
     "url": "/react-crop-component/index.html"
   },
   {
-    "revision": "0860e8063ef769f07391",
+    "revision": "69dbfa3445188b24d7fa",
     "url": "/react-crop-component/static/css/main.d08edc0e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-crop-component/static/js/2.414b1951.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0860e8063ef769f07391",
-    "url": "/react-crop-component/static/js/main.234927ad.chunk.js"
+    "revision": "69dbfa3445188b24d7fa",
+    "url": "/react-crop-component/static/js/main.e878ec43.chunk.js"
   },
   {
     "revision": "e0a02d9e2b99d840a331",
