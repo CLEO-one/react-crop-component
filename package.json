@@ -1,6 +1,6 @@
 {
   "name": "react-crop-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "public": true,
   "dependencies": {
     "html2canvas": "1.0.0-rc.5"
@@ -38,8 +38,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "npmbuild": "./node_modules/.bin/babel src/CropComponent.js --out-file index.js",
-    "publish": "npm run npmbuild && npm publish"
+    "npmbuild": "./node_modules/.bin/babel src/CropComponent.js --out-file index.js"
   },
   "eslintConfig": {
     "extends": "react-app"
