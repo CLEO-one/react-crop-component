@@ -3,7 +3,6 @@ import React from 'react'
 function Chart() {
   return (
     <div style={{ background: '#222' }}>
-      (
       <svg
         xmlns='http://www.w3.org/2000/svg'
         width='250'
@@ -81,7 +80,6 @@ function Chart() {
         ></path>
         <path fill='none' d='M0 0L250 0 250 65 0 65z'></path>
       </svg>
-      )
     </div>
   )
 }
