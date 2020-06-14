@@ -37,7 +37,7 @@ ReactDOM.render(
         }}
       >
         <a
-          href='https://github.com/ozluy/react-component2canvas'
+          href='https://github.com/cleo-one/react-crop-component'
           style={{ position: 'absolute', right: 8, top: 8 }}
         >
           <GithubLogo />
